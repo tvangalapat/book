@@ -16,7 +16,7 @@ $ python --version
 
 ## OSX Requirements
 
-This is just a guess I for got how to install all of this, it may be
+This is just a guess I forgot how to install all of this, it may be
 documented in another md file, grep -R for brew
 
 ```bash
